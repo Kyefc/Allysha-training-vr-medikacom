@@ -6,6 +6,7 @@ class : RPL XI-B
 1. unity version: 2022.3.6f1
 2. Sevile plugin: Training version
 
-# Aplication tool
+# Aplication Info
 
-Name: Allysha-training-vr-medikacom
+Name: vr-CakeShop
+desc: It's about Cake Shop. 
